@@ -1,0 +1,33 @@
+->Arduino UNO
+
+->Arduino Nano
+
+->L298 Motor Driver
+
+->nRf24L01 Modules
+
+->Joystick
+
+->18650 Li-ion battery
+
+->Jumper Wires
+
+->Battery Holders
+
+->General purpose PCB
+
+->20 mm berg strips 
+
+->Scotch Tape
+
+->Soldering Iron
+
+->gloves
+
+->4wd Car kit
+
+
+ALL THE MATERIALS WILL AVAILABLE IN AMAZON(SEARCH WHICH IS SUITABLE FOR ARDUINO)!!!!!!!!
+
+
+ts9785
